@@ -18,9 +18,6 @@ https://playplus.azureedge.net/RCFServer5/ondemand/THOLDGRD.mp4?
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znu6e8Co7vqFuUdj9q3fipPvoTV.jpg"Cine On Line Ação",Na Rota Do Trafico[COLOR yellow] (2020) [/COLOR]
 https://playplus.azureedge.net/RCFServer5/ondemand/NARTADTRFCO.mp4?
 #####################################################################################################################################
- #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znu6e8Co7vqFuUdj9q3fipPvoTV.jpg" group-title="Cine On Line Ação",Na Rota do Tráfico [COLOR yellow] (2020) [/COLOR]
-https://playplus.azureedge.net/RCFServer5/ondemand/NARTADTRFCO.mp4?
-#####################################################################################################################################
  #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5dnzmXp65vpMrTtbHUwf8eXKM8.jpg" group-title="Cine On Line Ação",O Motorista[COLOR yellow] (2020) [/COLOR]
 https://image.tmdb.org/t/p/w600_and_h900_bestv2/7J0WBmUoHNRReX5NhYCxytQu5RT.jpg
 #####################################################################################################################################
