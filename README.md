@@ -1,5 +1,16 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://blurayfilmes.com/imagens/parto-forcado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg"Cine On Line Ação",Parto Forçado [COLOR yellow] (2020) [/COLOR]
+https://playplus.azureedge.net/RCFServer5/ondemand/PRTOFRCDO.mp4?
+#####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71dbt2f2qAL._RI_.jpg"Cine On Line Ação",Black 47[COLOR yellow] (2020) [/COLOR]
+https://playplus.azureedge.net/RCFServer5/ondemand/APRNDZDESPIA.mp4?
+#####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN6TKL/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg"Cine On Line Ação",Tirando a Maior Onda[COLOR yellow] (2020) [/COLOR]
+https://playplus.azureedge.net/RCFServer5/ondemand/TRDOAMRONDOFLM.mp4?
+#####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/170x/08/1d/82/081d821f97501dbd5ebc0829fda57064.jpg"Cine On Line Ação",O Túnel[COLOR yellow] (2020) [/COLOR]
+https://playplus.azureedge.net/RCFServer5/ondemand/TRDOAMRONDOFLM.mp4?
+#####################################################################################################################################
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvNJfzSHv3zpmBH0Uu8pZTW3f9x.jpg"Cine On Line Ação",Agentes Duplos[COLOR yellow] (2020) [/COLOR]
 https://playplus.azureedge.net/RCFServer5/ondemand/AGNTSDPLS.mp4?
 #####################################################################################################################################
