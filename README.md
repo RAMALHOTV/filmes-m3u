@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_FX9F432c2_E/SsoJQfW2kiI/AAAAAAAAA5E/uRnqStMq35k/s320/pressagio.jpg"Cine On Line Ação",Presságio [COLOR yellow] (2020) [/COLOR]
+https://r1--sn-bg0ezn7z.c.2mdn.net/videoplayback/id/6ca8724224dceefe/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3742924935/sparams/acao,ctier,expire,hcs,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,rmhost,shardbypass,source/signature/2421B8B2C3CA12E4C5ED3339E161D3300CAB6561.246A147D50360370554EF1A4FDF29159D978E98B/key/cms1/cms_redirect/yes/hcs/yes/mh/Jp/mip/2804:26e8:1fdb:7e01:bce7:16b3:b77d:4bbb/mm/32/mn/sn-bg0ezn7z/ms/su/mt/1599525096/mv/m/mvi/1/pl/34/rmhost/r3---sn-bg0ezn7z.c.2mdn.net/shardbypass/yes/file/file.mp4
+#####################################################################################################################################
+
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/U0GKcuoGztS_gh9GAZ6JzJTK7hg=/290x478/smart/media/movies/covers/2020/07/kinopoisk.ru-Killing-Gunther-3221983.jpg"Cine On Line Ação",Queremos Matar Gunther[COLOR yellow] (2020) [/COLOR]
 https://playplus.azureedge.net/RCFServer5/ondemand/MTNDOGNTHR.mp4
 #####################################################################################################################################
