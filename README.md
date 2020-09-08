@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/U0GKcuoGztS_gh9GAZ6JzJTK7hg=/290x478/smart/media/movies/covers/2020/07/kinopoisk.ru-Killing-Gunther-3221983.jpg"Cine On Line Ação",Queremos Matar Gunther[COLOR yellow] (2020) [/COLOR]
+https://playplus.azureedge.net/RCFServer5/ondemand/MTNDOGNTHR.mp4
+#####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://torrentdublado.com/capas/diablo-a-ultima-corrida-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg"Cine On Line Ação",Diablo: A Última Corrida[COLOR yellow] (2020) [/COLOR]
+https://playplus.azureedge.net/RCFServer5/ondemand/DIBLOAULTMCRDA.mp4
+#####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/3H4iGTIZBGs7Nj9N6rdW5-n_26o=/290x478/smart/media/movies/covers/2020/07/EGmI-QTWwAMUNmH.jpg_large.jpg"Cine On Line Ação",Sadako: Capítulo Final[COLOR yellow] (2020) [/COLOR]
+https://playplus.azureedge.net/RCFServer5/ondemand/SDKOCPTLFNL.mp4?attachment=true
+#####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/filmes/filmes_13856_MV5BODM0MjI0NTg5MF5BMl5BanBnXkFtZTgwMjA5OTEwODM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"Cine On Line Ação",Abdução[COLOR yellow] (2020) [/COLOR]
+https://playplus.azureedge.net/RCFServer5/ondemand/ABDCAO.mp4?attachment=true
+#####################################################################################################################################
 #EXTINF:-1 tvg-logo="https://blurayfilmes.com/imagens/parto-forcado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg"Cine On Line Ação",Parto Forçado [COLOR yellow] (2020) [/COLOR]
 https://playplus.azureedge.net/RCFServer5/ondemand/PRTOFRCDO.mp4?
 #####################################################################################################################################
