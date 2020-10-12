@@ -359,7 +359,274 @@ http://anhanga.lhmtv.gq/filmes/agripe-dub-1080p.mp4?LHMTv
 http://anhanga.lhmtv.gq/filmes/ted-dub-720p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Ted 2
 http://anhanga.lhmtv.gq/filmes/ted2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Vampiros X the Bronx
+https://vze.azureedge.net/movies/vampirosbronx-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,O Diabo de Cada Dia
+https://vze.azureedge.net/movies/odiabodecadadia-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Enola Holmes
+https://vze.azureedge.net/movies/enolaholmes-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Alive
+https://vze.azureedge.net/movies/alive-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Mulan (2020)
+https://vze.azureedge.net/movies/mulan-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Power
+http://anhanga.lhmtv.gq/filmes/projetopower-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,O Tunel
+http://anhanga.lhmtv.gq/filmes/otunel-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,A Jornada
+http://anhanga.lhmtv.gq/filmes/ajornada-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,A Cacada
+http://anhanga.lhmtv.gq/filmes/acacada-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,SCOOBY! O Filme
+http://anhanga.lhmtv.gq/filmes/scoobyofilme2020-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Ruas em Guerra
+http://anhanga.lhmtv.gq/filmes/ruasemguerra-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Rede de Odio
+http://anhanga.lhmtv.gq/filmes/rededeodio-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,A Divisao
+http://anhanga.lhmtv.gq/filmes/adivisao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Magnatas do Crime
+http://anhanga.lhmtv.gq/filmes/magnatasdocrime-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Milagre na Cela 7
+http://anhanga.lhmtv.gq/filmes/milagrenacela7-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,A Barraca do Beijo 2
+http://anhanga.lhmtv.gq/filmes/abarracadobeijo2-dub-720p.mp4?LHMTv
 
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Rastros de um Sequestro
+http://aranami.lhmtv.gq/filmes/tt7057496.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Doentes de Amor
+http://aranami.lhmtv.gq/filmes/tt5462602.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Onde Está Segunda?
+http://aranami.lhmtv.gq/filmes/tt1536537.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Em Ritmo de Fuga
+http://aranami.lhmtv.gq/filmes/tt3890160.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Bokeh
+http://aranami.lhmtv.gq/filmes/tt3722062LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Máquina de Guerra
+http://aranami.lhmtv.gq/filmes/tt4758646.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Hot Summer Nights
+http://aranami.lhmtv.gq/filmes/tt3416536LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Freak Show
+http://aranami.lhmtv.gq/filmes/tt5089534LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,The Truth Beneath
+http://aranami.lhmtv.gq/filmes/tt5768474LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Deixe-a Sair
+http://aranami.lhmtv.gq/filmes/tt5810122LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Dia de Trabalho Mortal
+http://aranami.lhmtv.gq/filmes/tt1082807.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,À Beira Do Abismo
+http://aranami.lhmtv.gq/filmes/tt3731580.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Confronto no Pavilhão 99
+http://aranami.lhmtv.gq/filmes/tt5657856.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Arsenal
+http://aranami.lhmtv.gq/filmes/tt5580536LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,O Zoológico de Varsóvia
+http://aranami.lhmtv.gq/filmes/tt1730768.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Assassino Contratado
+http://aranami.lhmtv.gq/filmes/tt2674358LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Coração de Dragão 4: A Batalha pelo Coração de Fogo
+http://aranami.lhmtv.gq/filmes/tt5610626.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Oro – A Cidade Perdida
+http://aranami.lhmtv.gq/filmes/tt5162658.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Lua de Júpiter
+http://aranami.lhmtv.gq/filmes/tt5842890.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Mulan (2020)
+http://aranami.lhmtv.gq/filmes/tt4566758.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Revolt
+http://aranami.lhmtv.gq/filmes/tt3722614.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Sexo, Amor e Terapia
+http://aranami.lhmtv.gq/filmes/tt2978426.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Um Contratempo
+http://aranami.lhmtv.gq/filmes/tt4857264.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Sonic Boom: O Dia do Ouriço
+http://aranami.lhmtv.gq/filmes/tt4506024.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Na Selva
+http://aranami.lhmtv.gq/filmes/tt3758172.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Peles
+http://aranami.lhmtv.gq/filmes/tt5808778.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Um Laço de Amor
+http://aranami.lhmtv.gq/filmes/tt4481414.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Bad Frank
+http://aranami.lhmtv.gq/filmes/tt3362238LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Atração Obsessiva
+http://aranami.lhmtv.gq/filmes/tt5990066.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Enrolados Outra Vez: Rainha por um dia
+http://aranami.lhmtv.gq/filmes/tt7656982.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Terror no Pântano 4
+http://aranami.lhmtv.gq/filmes/tt5534434LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Permissão
+http://aranami.lhmtv.gq/filmes/tt5390066.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Antes Que Eu Me Esqueça
+http://aranami.lhmtv.gq/filmes/tt6544318.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Mal Nosso
+http://aranami.lhmtv.gq/filmes/tt6042392.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Depois do Apocalipse
+http://aranami.lhmtv.gq/filmes/tt5085522.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Fé Corrompida
+http://aranami.lhmtv.gq/filmes/tt6053438.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Puro-Sangue
+http://aranami.lhmtv.gq/filmes/tt5649108.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Limite da Honra
+http://aranami.lhmtv.gq/filmes/tt7223050.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,A Comédia dos Pecados
+http://aranami.lhmtv.gq/filmes/tt5666304.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,mãe!
+http://aranami.lhmtv.gq/filmes/tt5109784.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Raabta
+http://aranami.lhmtv.gq/filmes/tt5542802LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,The Post: A Guerra Secreta
+http://aranami.lhmtv.gq/filmes/tt6294822.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Uma Questão Pessoal
+http://aranami.lhmtv.gq/filmes/tt5952238.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Resident Evil: A Vingança
+http://aranami.lhmtv.gq/filmes/tt5776208.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,O Segredo de Marrowbone
+http://aranami.lhmtv.gq/filmes/tt5886440.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Stephanie
+http://aranami.lhmtv.gq/filmes/tt3829378.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Matar ou Morrer
+http://aranami.lhmtv.gq/filmes/tt4177822LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Hindi Medium
+http://aranami.lhmtv.gq/filmes/tt5764096LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Toilet: Ek Prem Katha
+http://aranami.lhmtv.gq/filmes/tt5785170LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Um Homem Comum
+http://aranami.lhmtv.gq/filmes/tt1785288.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Assassinato no Expresso do Oriente
+http://aranami.lhmtv.gq/filmes/tt3402236.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,A Pele Fria
+http://aranami.lhmtv.gq/filmes/tt1034385.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Escape from Ensenada
+http://aranami.lhmtv.gq/filmes/tt3652616LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Acampamento de Gordinhos
+http://aranami.lhmtv.gq/filmes/tt5643724.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,As Boas Maneiras
+http://aranami.lhmtv.gq/filmes/tt5480782.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Baseado em Fatos Reais
+http://aranami.lhmtv.gq/filmes/tt5893264.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Nunca Convide o Seu Ex
+http://aranami.lhmtv.gq/filmes/tt5758802.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Tokyo Ghoul
+http://aranami.lhmtv.gq/filmes/tt5815944.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Onda de Choque
+http://aranami.lhmtv.gq/filmes/tt5847286.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Rogue
+http://aranami.lhmtv.gq/filmes/tt11576124.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Tirando a Maior Onda – O Filme
+http://aranami.lhmtv.gq/filmes/tt9208444LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Decisão
+http://aranami.lhmtv.gq/filmes/tt8776686.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Fuga de Auschwitz
+http://aranami.lhmtv.gq/filmes/tt10944744.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Uma Cilada Para Meu Avô
+http://aranami.lhmtv.gq/filmes/tt4532038LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,The Glorious Seven
+http://aranami.lhmtv.gq/filmes/tt3917254LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Má Educação
+http://aranami.lhmtv.gq/filmes/tt8206668.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Jade’s Asylum
+http://aranami.lhmtv.gq/filmes/tt8741984LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Hooking Up
+http://aranami.lhmtv.gq/filmes/tt9815998LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Quase uma Rockstar
+http://aranami.lhmtv.gq/filmes/tt3155342.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Phineas e Ferb, O Filme: Candace Contra o Universo
+http://aranami.lhmtv.gq/filmes/tt1817232.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Superman: Homem do Amanhã
+http://aranami.lhmtv.gq/filmes/tt11079116.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Uma Boa História
+http://aranami.lhmtv.gq/filmes/tt7906978LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Muse: Simulation Theory
+http://aranami.lhmtv.gq/filmes/tt12874840LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Max Winslow and The House of Secrets
+http://aranami.lhmtv.gq/filmes/tt8896632LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,DieRy
+http://aranami.lhmtv.gq/filmes/tt8991400LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Britt-Marie Esteve Aqui
+http://aranami.lhmtv.gq/filmes/tt8103160LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Centigrade
+http://aranami.lhmtv.gq/filmes/tt8945942LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Criança Responsável
+http://aranami.lhmtv.gq/filmes/tt8064558LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Dating Amber
+http://aranami.lhmtv.gq/filmes/tt7886936LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,A Ilha
+http://aranami.lhmtv.gq/filmes/tt8380776.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Fátima – A História de um Milagre
+http://aranami.lhmtv.gq/filmes/tt2197936LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Aprendiz de Espiã
+http://aranami.lhmtv.gq/filmes/tt8242084.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Bill & Ted: Encare a Música
+http://aranami.lhmtv.gq/filmes/tt1086064LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Fat Ass Zombies
+http://aranami.lhmtv.gq/filmes/tt2989692LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Get Duked!
+http://aranami.lhmtv.gq/filmes/tt9735758LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Uma Noite em Bangkok
+http://aranami.lhmtv.gq/filmes/tt12192190.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Do Fundo do Mar 3
+http://aranami.lhmtv.gq/filmes/tt11946300LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Intruder
+http://aranami.lhmtv.gq/filmes/tt12491064LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,The Unfamiliar
+http://aranami.lhmtv.gq/filmes/tt8109470LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Santana
+http://aranami.lhmtv.gq/filmes/tt11769162LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,The Honeymoon Phase
+http://aranami.lhmtv.gq/filmes/tt7277942LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Fluidity
+http://aranami.lhmtv.gq/filmes/tt5482242LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Clownface
+http://aranami.lhmtv.gq/filmes/tt4773982LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Baba Yaga: Terror da Floresta Negra
+http://aranami.lhmtv.gq/filmes/tt8006374LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,A Maldição da Ponte
+http://aranami.lhmtv.gq/filmes/tt11242242LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Steel Rain 2: Summit
+http://aranami.lhmtv.gq/filmes/tt10516176LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Pódio para Todos
+http://aranami.lhmtv.gq/filmes/tt10851618LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Tito
+http://aranami.lhmtv.gq/filmes/tt7476866LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Lost Bayou
+http://aranami.lhmtv.gq/filmes/tt7974156LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Buffaloed
+http://aranami.lhmtv.gq/filmes/tt8647310LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Ravage
+http://aranami.lhmtv.gq/filmes/tt8191620LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Pantera Negra
+http://aranami.lhmtv.gq/filmes/tt1825683.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,O Bebê de Bridget Jones
+http://aranami.lhmtv.gq/filmes/tt1473832.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Re:Born
+http://aranami.lhmtv.gq/filmes/tt5678110LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Aterrorizante
+http://aranami.lhmtv.gq/filmes/tt4281724LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Um Tira no Jardim de Infância 2
+http://aranami.lhmtv.gq/filmes/tt4763168.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Warcraft – O Primeiro Encontro de Dois Mundos
+http://aranami.lhmtv.gq/filmes/tt0803096.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Alone Yet Not Alone
+http://aranami.lhmtv.gq/filmes/tt1986769.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,O Bom Gigante Amigo
+http://aranami.lhmtv.gq/filmes/tt3691740.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Preso no Tempo
+http://aranami.lhmtv.gq/filmes/tt3399078.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Uma Ressaca de 9 Meses
+http://aranami.lhmtv.gq/filmes/tt5538800.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Sequestro na Romênia
+http://aranami.lhmtv.gq/filmes/tt3849370LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,It Stains the Sands Red
+http://aranami.lhmtv.gq/filmes/tt5735280LEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Submersos
+http://aranami.lhmtv.gq/filmes/tt3236976.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Scooby-Doo! e WWE: Maldição do Demônio Veloz
+http://aranami.lhmtv.gq/filmes/tt4196868.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Morando Com o Medo
+http://aranami.lhmtv.gq/filmes/tt3612320.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Filmes" ,Código de Honra
+http://aranami.lhmtv.gq/filmes/tt4060866.mp4?LHMTv
+###################################################################################################################################################################################
 
 ##Classicos##
 
